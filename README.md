@@ -1,2 +1,11 @@
-# Tugas_Statified-Random-Sampling
-Tugas mata kuliah Statistika mengenai Stratified Random Sampling menggunakan Google Colab.
+# Tugas Statistika
+## Stratified Random Sampling Menggunakan Python
+
+* Nama : Devina Shintia Pratiwi
+* NIM : 25090001
+* Mata Kuliah : Statistika
+Tugas ini berisi implementasi metode Stratified Random Sampling menggunakan Python yang dikerjakan menggunakan Google Colab.
+
+### File Tugas
+* Tugas statified random sampling.ipynb
+
